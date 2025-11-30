@@ -1,0 +1,48 @@
+Subject: New Developer Tool: Generate Barcodes Instantly (Free)
+
+Hi [Client Name],
+
+Quick update - I just launched a free tool that might help your development team.
+
+**AIDC Barcode Toolkit for Claude Code**
+https://github.com/rmjoe99/aidc-barcode-toolkit
+
+It makes barcode generation as simple as asking:
+"Generate a barcode for product ABC123"
+
+Done. That's it.
+
+Features based on our work together:
+✅ All formats (EAN-13, UPC-A, Code 128, QR codes)
+✅ GS1 validation (like we implemented for your system)
+✅ Thermal printer support (Zebra, Honeywell, Datalogic)
+✅ Natural language - no complex commands
+✅ Zero configuration required
+
+Built from 5+ years experience (including your deployment) to solve the problems developers actually face.
+
+Free & open source. MIT licensed.
+
+**Perfect for:**
+- New features in your existing system
+- Rapid prototyping
+- Developer onboarding
+- Label generation automation
+
+**Quick demo:**
+[Link to demo video when you create it]
+
+Thought your team might find it useful. Let me know if you'd like a walkthrough!
+
+Best regards,
+Joseph Rwanda
+Technical Solutions Architect
+Origami Tech
+
+📧 sales@origamitech.co.ke
+🌐 josephrwanda.com
+💼 linkedin.com/in/josephrwanda
+
+---
+
+P.S. If your team uses it and likes it, I'd appreciate a GitHub star ⭐ or testimonial for the README!

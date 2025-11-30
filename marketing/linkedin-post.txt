@@ -1,0 +1,49 @@
+🚀 Just launched: AIDC Barcode Toolkit for Claude Code
+
+After 5+ years deploying barcode systems for 50+ clients (warehouses, hospitals, manufacturers), I built the developer tool I wish existed.
+
+Problem: Barcode generation is unnecessarily complex for developers. GS1 compliance is confusing. Thermal printer integration is painful. Every project reinvents the wheel.
+
+Solution: Natural language barcode generation in Claude Code.
+
+✅ Generate EAN-13, UPC-A, Code 128, QR codes in seconds
+✅ GS1 validation & parsing (healthcare/retail compliant)
+✅ Thermal printer support (Zebra, Honeywell, Datalogic)
+✅ Just ask Claude - no complex commands
+✅ Zero configuration required
+
+Example:
+You: "Generate barcodes for products SKU001, SKU002, SKU003"
+Claude: ✅ Done. 3 Code 128 barcodes ready for printing.
+
+That's it.
+
+Free & open source: https://github.com/rmjoe99/aidc-barcode-toolkit
+
+Built for developers building:
+🏭 Warehouse automation
+🛒 Retail inventory systems
+💊 Healthcare tracking (FDA, EU FMD compliant)
+📦 Logistics platforms
+🏭 Manufacturing asset management
+
+Background:
+• 5+ years AIDC expertise
+• Featured in Floriculture Magazine
+• Honeywell Partner of the Year
+• Zebra RFID certified
+• 50+ enterprise deployments across Kenya, East Africa
+
+This plugin represents real-world expertise, not theoretical knowledge.
+
+Who's building inventory/warehouse/retail systems? Tag someone who needs this! 🏷️
+
+Would love your feedback. ⭐ Star the repo if you find it useful.
+
+---
+
+📌 Tags:
+#AIDC #DeveloperTools #ClaudeCode #WarehouseAutomation #SupplyChain #Barcode #QRCode #InventoryManagement #SoftwareDevelopment #OpenSource #AI #Automation #RetailTech #Healthcare #Logistics #Manufacturing
+
+👥 Mention:
+@Anthropic @Honeywell @ZebraTechnologies @Chainway @Datalogic

@@ -1,0 +1,51 @@
+Title: [Show HN] Professional barcode generator for Claude Code - built by AIDC expert with 50+ deployments
+
+Body:
+
+Hey everyone! 👋
+
+I just launched AIDC Barcode Toolkit for Claude Code and would love your feedback.
+
+**What it does:**
+Generate production-ready barcodes (EAN-13, UPC-A, Code 128, QR codes) using natural language in Claude Code.
+
+**Why I built it:**
+After 5+ years deploying barcode systems for warehouses, hospitals, and manufacturers across Kenya/East Africa, I kept seeing the same problem: developers struggle with:
+- GS1 compliance (check digits, Application Identifiers)
+- Thermal printer integration (Zebra ZPL, ESC/POS)
+- Format selection (EAN vs UPC vs Code 128?)
+
+**Example usage:**
+```
+You: "Generate barcodes for products ABC001, ABC002, ABC003"
+Claude: ✅ Generated 3 Code 128 barcodes
+```
+
+That's it. No configuration, no complex APIs, just works.
+
+**Tech details:**
+- Node.js with jsbarcode, qrcode, bwip-js
+- MIT licensed
+- Supports all major formats
+- GTIN validation with GS1 check digits
+- Thermal printer templates (ZPL, ESC/POS, TSPL)
+
+**Real-world testing:**
+Validated with Honeywell, Zebra, Datalogic scanners from actual deployments. I'm Honeywell Partner of the Year and Zebra RFID certified.
+
+**GitHub:** https://github.com/rmjoe99/aidc-barcode-toolkit
+
+Would appreciate:
+- Feedback on the approach
+- Bug reports if you test it
+- Feature requests
+- Stars if you find it useful ⭐
+
+**Background:**
+I'm Joseph Rwanda, Technical Solutions Architect at Origami Tech. Featured in Floriculture Magazine for AIDC innovation. This plugin represents 5+ years of real-world experience, not theoretical knowledge.
+
+Happy to answer questions!
+
+---
+
+P.S. If you're building warehouse/inventory/retail systems and need barcodes, this might save you weeks of work.

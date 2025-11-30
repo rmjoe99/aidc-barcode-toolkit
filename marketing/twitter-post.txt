@@ -1,0 +1,39 @@
+🚀 New: Professional barcode generator for @ClaudeAI Code
+
+✅ EAN/UPC/Code128/QR
+✅ GS1 validation
+✅ Thermal printing
+✅ Natural language
+✅ Zero config
+
+Free & open source 👇
+https://github.com/rmjoe99/aidc-barcode-toolkit
+
+Built by AIDC experts with 50+ enterprise deployments.
+
+Perfect for:
+🏭 Warehouse automation
+🛒 Retail systems
+💊 Healthcare tracking
+📦 Logistics
+
+After 5 years deploying barcode systems, I built the tool I wish existed.
+
+Example:
+"Generate barcodes for SKU001, SKU002, SKU003"
+✅ Done. That simple.
+
+Features:
+• All major formats (EAN-13, UPC-A, Code 128, QR)
+• GTIN validation with check digits
+• GS1 parsing (healthcare/retail compliant)
+• Zebra/Honeywell/Datalogic printer support
+• Natural language interface
+• MIT licensed
+
+Built by someone who's actually debugged Zebra printers at 2AM in warehouses. 😅
+
+⭐ Star if useful!
+🔄 RT to help devs struggling with barcodes
+
+#ClaudeCode #AIDC #DevTools #Barcode #OpenSource #Automation
