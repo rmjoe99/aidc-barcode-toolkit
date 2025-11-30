@@ -1,0 +1,59 @@
+{
+  "name": "AIDC Barcode Toolkit",
+  "description": "Professional barcode generation, GS1 validation & thermal printing by enterprise AIDC experts",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joseph Rwanda",
+    "email": "sales@origamitech.co.ke",
+    "url": "https://josephrwanda.com"
+  },
+  "plugins": [
+    {
+      "name": "aidc-barcode-toolkit",
+      "description": "Generate production-ready barcodes (EAN-13, UPC-A, Code 128, QR), validate GTINs, parse GS1, print thermal labels",
+      "version": "1.0.0",
+      "author": {
+        "name": "Joseph Rwanda",
+        "email": "sales@origamitech.co.ke",
+        "url": "https://josephrwanda.com"
+      },
+      "license": "MIT",
+      "source": {
+        "source": "github",
+        "repo": "rmjoe99/aidc-barcode-toolkit"
+      },
+      "category": "Development Tools",
+      "tags": [
+        "barcode",
+        "qr-code",
+        "gs1",
+        "gtin",
+        "warehouse",
+        "inventory",
+        "aidc",
+        "retail",
+        "healthcare",
+        "manufacturing",
+        "logistics",
+        "thermal-printer",
+        "label-printing"
+      ],
+      "keywords": [
+        "barcode generator",
+        "QR code generator",
+        "GTIN validation",
+        "GS1 parsing",
+        "thermal printer",
+        "warehouse automation",
+        "inventory management",
+        "label printing",
+        "EAN-13",
+        "UPC-A",
+        "Code 128",
+        "barcode scanner",
+        "supply chain",
+        "logistics automation"
+      ]
+    }
+  ]
+}
