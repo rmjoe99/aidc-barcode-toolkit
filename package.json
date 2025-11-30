@@ -1,0 +1,71 @@
+{
+  "name": "aidc-barcode-toolkit",
+  "version": "1.0.0",
+  "description": "Professional AIDC barcode/QR generation, GS1 validation & thermal printing for AI coding assistants",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node test/index.js",
+    "build": "npm run lint && npm run test",
+    "lint": "eslint lib/",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "barcode",
+    "qr-code",
+    "gs1",
+    "gtin",
+    "ean",
+    "upc",
+    "code128",
+    "code39",
+    "itf-14",
+    "warehouse",
+    "inventory",
+    "aidc",
+    "thermal-printer",
+    "label-printing",
+    "gtin-validation",
+    "supply-chain",
+    "retail",
+    "healthcare",
+    "manufacturing",
+    "logistics"
+  ],
+  "author": {
+    "name": "Joseph Rwanda",
+    "email": "sales@origamitech.co.ke",
+    "url": "https://josephrwanda.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmjoe99/aidc-barcode-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rmjoe99/aidc-barcode-toolkit/issues"
+  },
+  "homepage": "https://github.com/rmjoe99/aidc-barcode-toolkit#readme",
+  "dependencies": {
+    "qrcode": "^1.5.3",
+    "jsbarcode": "^3.12.1",
+    "bwip-js": "^4.5.1"
+  },
+  "optionalDependencies": {
+    "canvas": "^2.11.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "aidc-barcode-toolkit",
+  "displayName": "AIDC Barcode Toolkit",
+  "description": "Professional barcode/QR generation, GS1 validation & thermal printing. Built by enterprise AIDC experts.",
+  "version": "1.0.0",
+  "publisher": "josephrwanda",
+  "author": {
+    "name": "Joseph Rwanda",
+    "email": "sales@origamitech.co.ke",
+    "url": "https://josephrwanda.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other",
+    "Visualization"
+  ],
+  "keywords": [
+    "barcode",
+    "qr-code",
+    "gs1",
+    "gtin",
+    "warehouse",
+    "inventory",
+    "aidc",
+    "label-printing",
+    "ean",
+    "upc",
+    "code128"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "aidc.generateBarcode",
+        "title": "AIDC: Generate Barcode",
+        "category": "AIDC"
+      },
+      {
+        "command": "aidc.validateGTIN",
+        "title": "AIDC: Validate GTIN",
+        "category": "AIDC"
+      },
+      {
+        "command": "aidc.generateQR",
+        "title": "AIDC: Generate QR Code",
+        "category": "AIDC"
+      },
+      {
+        "command": "aidc.parseGS1",
+        "title": "AIDC: Parse GS1 Data",
+        "category": "AIDC"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmjoe99/aidc-barcode-toolkit"
+  },
+  "bugs": {
+    "url": "https://github.com/rmjoe99/aidc-barcode-toolkit/issues"
+  },
+  "homepage": "https://github.com/rmjoe99/aidc-barcode-toolkit#readme"
+}
